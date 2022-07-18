@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.465ca43d.css",
+    "main.js": "/Personal-Website/static/js/main.58bf9512.js",
+    "static/js/787.00f40e95.chunk.js": "/Personal-Website/static/js/787.00f40e95.chunk.js",
+    "static/media/wolf wall.jpg": "/Personal-Website/static/media/wolf wall.36a7ad5b2975c0c71820.jpg",
+    "index.html": "/Personal-Website/index.html",
+    "main.465ca43d.css.map": "/Personal-Website/static/css/main.465ca43d.css.map",
+    "main.58bf9512.js.map": "/Personal-Website/static/js/main.58bf9512.js.map",
+    "787.00f40e95.chunk.js.map": "/Personal-Website/static/js/787.00f40e95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.465ca43d.css",
+    "static/js/main.58bf9512.js"
+  ]
+}
