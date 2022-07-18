@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       
-<body>
+
     <nav class="navbar">
         <div class="max-width">
             <div class="logo"><a href="#">Avi<span>Sinha</span></a></div>
@@ -80,7 +80,7 @@ function App() {
         <span class="footer-span">email:sinhaavi23@gmail.com</span>
     </footer>
     
-</body>
+
 
     </div>
   );
