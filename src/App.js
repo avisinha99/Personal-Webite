@@ -1,7 +1,7 @@
 
 import './App.css';
-import './images/wolf wall.jpg';
-import React from 'react';
+
+
 
 function App() {
   
